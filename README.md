@@ -35,11 +35,10 @@ Classifies input as casual or support-seeking
 For casual chats (e.g., "hello", "thanks"), responds directly using the LLM  
 For support queries, uses the RetrievalQA chain to answer based on embedded PDF context  
 
-✅ How to Use:  
+✅ How to Use(Colab):  
 Place your mental health-related PDF(s) in the data/ directory.  
 Replace the placeholder groq_api_key in the script with your actual key.  
-Run the chatbot:
-python chatbot.py  
+Run the chatbot.  
 Start chatting! Type "exit" anytime to end the session.  
 
 Example Interaction:  
