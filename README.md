@@ -1,4 +1,5 @@
 UPDATED FILE: emotion recognition and sentiment analysis.
+
 🧠Advanced Mental Health Chatbot with Emotional Intelligence
 An empathetic mental health chatbot enhanced with emotion & sentiment detection, intent classification, and personalized recommendations. Powered by LLaMA 3 (Groq) and LangChain, it provides supportive conversations and factual guidance.
 
