@@ -1,0 +1,24 @@
+[33m80005c7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Fix security issue: Remove hardcoded API key and use environment variables - Update README with setup instructions
+[33mc3279d4[m Restore original code and clean repository structure - Remove Streamlit deployment files - Update emotion recognition and sentiment analysis implementation - Clean up README.md - Keep only essential files: notebook, emotion analysis, requirements, data
+[33m7b3adad[m Add debug tools and simplified RAG version for troubleshooting
+[33mbcd7a9a[m[33m ([m[1;31morigin/main[m[33m)[m Add RAG system with emotion and sentiment analysis using external APIs
+[33macff354[m Update README with new content
+[33m12bdc36[m Fix styling and add better error handling
+[33m39f4eee[m Fix merge conflicts in emotion recognition file
+[33mfc7da59[m Fix import error in streamlit_app.py
+[33md8655fd[m Fix merge conflict in requirements.txt
+[33m60f8696[m Resolve merge conflicts - keep updated Streamlit version with mental health PDFs
+[33m3a138d0[m Add Streamlit interface and remove hardcoded API key
+[33m02773e1[m Update README.md
+[33mafefe51[m Update README.md
+[33m1956b85[m Update README.md
+[33m3a2072a[m Update emotion recogntiom and sentiment analysis.py
+[33m9bdd349[m Add files via upload
+[33m2f2f4a0[m Add files via upload
+[33m8b975c5[m Update README.md
+[33me03a3ac[m Add files via upload
+[33m589697a[m Delete bot+emotion+sentiment (1).py
+[33m405e682[m Add files via upload
+[33m34da496[m README.md
+[33m81a7ffe[m Created using Colab
+[33m5ff5eea[m Initial commit
